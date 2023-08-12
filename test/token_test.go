@@ -1,10 +1,13 @@
 /*
-* @desc:功能测试
-* @company:云南奇讯科技有限公司
-* @Author: yixiaohu
-* @Date:   2022/2/28 10:09
+ * @Author: Viron
+ * @Date: 2023-08-12 10:23:34
+ * @LastEditors: Viron
+ * @LastEditTime: 2023-08-12 10:33:25
+ * @FilePath: /gfast-token/test/token_test.go
+ * @Description:
+ * viron@foxmail.com
+ * Copyright (c) 2023 by Viron, All Rights Reserved.
  */
-
 package test
 
 import (
